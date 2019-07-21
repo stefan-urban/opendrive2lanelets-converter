@@ -1,1 +1,1 @@
-Please use https://gitlab.com/cps_public/opendrive2lanelet
+Please go to https://commonroad.in.tum.de/ for more information.
